@@ -1,0 +1,23 @@
+{
+    "config": {
+        "error": {
+            "invalid_postcode": "That post code is not valid for Manchester."
+        },
+        "step": {
+            "user": {
+                "data": {
+                    "post_code": "Post Code"
+                },
+                "description": "Enter your Manchester based post code.",
+                "title": "Post Code"
+            },
+            "address": {
+                "data": {
+                    "address_id": "Street address"
+                },
+                "description": "Select your street address",
+                "title": "Street address"
+            }
+        }
+    }
+}
